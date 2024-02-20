@@ -36,5 +36,6 @@ Hello, world! I'm Spencer Almodiel, I have a passion in coding since I am curiou
 </br>
 </br>
 
+![Buzzlight year](https://github.com/Xspencer6/Computer-Vision-Crash-Course-/blob/main/buzz.jpg "a title")
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Xspencer6&theme=radical)
